@@ -84,3 +84,4 @@ https://drive.google.com/file/d/1J91extLnc7UoXQ86piGZU80naYX26jYJ/view?usp=shari
 **Labview Blok Diyagramı**
 (https://drive.google.com/file/d/1O4bfz09QpJNrd5YybHd7UZc4xHhiODJh/view?usp=sharing)
 
+** İncelediğiniz için teşekkürler, diğer repository içeriklerini profilimden inceleyebilirsiniz :zap: **
